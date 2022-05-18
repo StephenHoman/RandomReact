@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/dash/static/css/main.e2813551.css",
-    "main.js": "/dash/static/js/main.212b2f56.js",
+    "main.css": "/dash/static/css/main.ad5c8ba7.css",
+    "main.js": "/dash/static/js/main.e77071fe.js",
     "static/js/787.d43e6ab2.chunk.js": "/dash/static/js/787.d43e6ab2.chunk.js",
+    "static/media/BeadDrip2.jpg": "/dash/static/media/BeadDrip2.2bf12e683bcae79d7151.jpg",
+    "static/media/Hyundai.webp": "/dash/static/media/Hyundai.b0d7819511d81c4c11e3.webp",
+    "static/media/Blurple.webp": "/dash/static/media/Blurple.feff4bd7625f0bf3cd5d.webp",
     "static/media/image.svg": "/dash/static/media/image.22787712521e3a651039b6dc1e4168e2.svg",
     "index.html": "/dash/index.html",
-    "main.e2813551.css.map": "/dash/static/css/main.e2813551.css.map",
-    "main.212b2f56.js.map": "/dash/static/js/main.212b2f56.js.map",
+    "main.ad5c8ba7.css.map": "/dash/static/css/main.ad5c8ba7.css.map",
+    "main.e77071fe.js.map": "/dash/static/js/main.e77071fe.js.map",
     "787.d43e6ab2.chunk.js.map": "/dash/static/js/787.d43e6ab2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2813551.css",
-    "static/js/main.212b2f56.js"
+    "static/css/main.ad5c8ba7.css",
+    "static/js/main.e77071fe.js"
   ]
 }
